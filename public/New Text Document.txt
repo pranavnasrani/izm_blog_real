@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'San Francisco Pro';
+    src: url('/fonts/SanFranciscoPro/SanFranciscoPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'San Francisco Pro', sans-serif;
+}
